@@ -1,64 +1,64 @@
 {
   "posts": [
     {
-    userId: 1,
-    id: 1,
-    title: "Cómo mejorar tu productividad en el trabajo remoto",
-    body: "Trabajar desde casa requiere disciplina. Establece horarios fijos, toma descansos activos y asegúrate de tener un espacio de trabajo libre de distracciones."
+    "userId": 1,
+    "id": 1,
+    "title": "Cómo mejorar tu productividad en el trabajo remoto",
+    "body": "Trabajar desde casa requiere disciplina. Establece horarios fijos, toma descansos activos y asegúrate de tener un espacio de trabajo libre de distracciones."
     },
     {
-      userId: 1,
-      id: 2,
-      title: "7 hábitos para una vida saludable",
-      body: "Dormir bien, comer balanceado, hacer ejercicio, beber agua, evitar el estrés, mantener relaciones sanas y dedicar tiempo al descanso son claves para tu bienestar."
+      "userId": 1,
+      "id": 2,
+      "title": "7 hábitos para una vida saludable",
+      "body": "Dormir bien, comer balanceado, hacer ejercicio, beber agua, evitar el estrés, mantener relaciones sanas y dedicar tiempo al descanso son claves para tu bienestar."
     },
     {
-      userId: 2,
-      id: 3,
-      title: "Introducción a la programación con JavaScript",
-      body: "JavaScript es un lenguaje esencial para el desarrollo web. Comienza aprendiendo variables, funciones y estructuras de control como if y for."
+      "userId": 2,
+      "id": 3,
+      "title": "Introducción a la programación con JavaScript",
+      "body": "JavaScript es un lenguaje esencial para el desarrollo web. Comienza aprendiendo variables, funciones y estructuras de control como if y for."
     },
     {
-      userId: 2,
-      id: 4,
-      title: "Por qué deberías aprender a invertir desde joven",
-      body: "Invertir temprano permite que el interés compuesto trabaje a tu favor. No necesitas mucho dinero, solo constancia y educación financiera básica."
+      "userId": 2,
+      "id": 4,
+      "title": "Por qué deberías aprender a invertir desde joven",
+      "body": "Invertir temprano permite que el interés compuesto trabaje a tu favor. No necesitas mucho dinero, solo constancia y educación financiera básica."
     },
     {
-      userId: 3,
-      id: 5,
-      title: "La historia detrás del telescopio espacial James Webb",
-      body: "El telescopio James Webb es una maravilla de la ingeniería moderna. Fue diseñado para observar las galaxias más antiguas y revelar secretos del universo."
+      "userId": 3,
+      "id": 5,
+      "title": "La historia detrás del telescopio espacial James Webb",
+      "body": "El telescopio James Webb es una maravilla de la ingeniería moderna. Fue diseñado para observar las galaxias más antiguas y revelar secretos del universo."
     },
     {
-      userId: 3,
-      id: 6,
-      title: "Consejos para mejorar tus habilidades de comunicación",
-      body: "Escucha activamente, mantén contacto visual, adapta tu lenguaje a tu audiencia y practica la empatía para comunicarte mejor en cualquier entorno."
+      "userId": 3,
+      "id": 6,
+      "title": "Consejos para mejorar tus habilidades de comunicación",
+      "body": "Escucha activamente, mantén contacto visual, adapta tu lenguaje a tu audiencia y practica la empatía para comunicarte mejor en cualquier entorno."
     },
     {
-      userId: 4,
-      id: 7,
-      title: "¿Qué es el minimalismo y cómo aplicarlo en tu vida?",
-      body: "El minimalismo no es solo tener menos cosas, sino enfocarte en lo esencial. Deshazte del exceso y da valor a lo que realmente importa."
+      "userId": 4,
+      "id": 7,
+      "title": "¿Qué es el minimalismo y cómo aplicarlo en tu vida?",
+      "body": "El minimalismo no es solo tener menos cosas, sino enfocarte en lo esencial. Deshazte del exceso y da valor a lo que realmente importa."
     },
     {
-      userId: 4,
-      id: 8,
-      title: "Aprende a crear una API REST con Node.js",
-      body: "Node.js junto con Express.js permite construir APIs rápidas y eficientes. Aprende a manejar rutas, middleware y respuestas JSON correctamente."
+      "userId": 4,
+      "id": 8,
+      "title": "Aprende a crear una API REST con Node.js",
+      "body": "Node.js junto con Express.js permite construir APIs rápidas y eficientes. Aprende a manejar rutas, middleware y respuestas JSON correctamente."
     },
     {
-      userId: 5,
-      id: 9,
-      title: "Cómo superar el miedo a hablar en público",
-      body: "El miedo escénico es común. Practicar, conocer a tu audiencia y controlar la respiración son estrategias efectivas para superarlo poco a poco."
+      "userId": 5,
+      "id": 9,
+      "title": "Cómo superar el miedo a hablar en público",
+      "body": "El miedo escénico es común. Practicar, conocer a tu audiencia y controlar la respiración son estrategias efectivas para superarlo poco a poco."
     },
     {
-      userId: 5,
-      id: 10,
-      title: "La importancia de la inteligencia emocional en el liderazgo",
-      body: "Un buen líder no solo dirige, también comprende emociones. La empatía, la autogestión y la conciencia emocional fortalecen cualquier equipo."
+      "userId": 5,
+      "id": 10,
+      "title": "La importancia de la inteligencia emocional en el liderazgo",
+      "body": "Un buen líder no solo dirige, también comprende emociones. La empatía, la autogestión y la conciencia emocional fortalecen cualquier equipo."
     }
   ],
   "profile": {
